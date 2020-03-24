@@ -1,0 +1,42 @@
+========== All files in /home/dawahnig/public_html/Third Party ==========
+all_folders_and_files.txt
+RP_and_Reciter_album_verifier.py
+print_all_dnlectures_folder.py
+dup_remover.py
+dnlectures2_new
+overide.py
+FileSystemChanges.csv
+dnlectures2.txt
+check_missing_files.py
+Dr Luqman Idris Sekoni- Ramadan Tafseer-Suratul Baqarah[Q2vs102-103]-(Yoruba) DNmpeg
+https_audit_old.csv
+print_all_dnlectures_folder_new.py
+Rps_with_different_reciters.csv
+Downloads - Shortcut.lnk
+monitor.py
+Dr Bashir Imam Alli_General Lecture - Examinaion Malpractice And The Islamic Prospectives (14-10-2019) (Hausa)_DN.mp3
+dnlectures.txt
+Dr Bashir Imam Alli_General Lecture - Examinaion Malpractice And The Islamic Prospectives (14-10-2019) (Hausa)_DN.amr
+https_audit.csv
+send.php
+
+========All folders in /home/dawahnig/public_html/Third Party===========
+amrprocessing
+Ramadan 1440 Tafseer
+Nimah
+Isa
+Dr Usman Ibrahim Gi'ade (Niger)
+wavprocessing
+test
+testoriginalAmr
+New UPload
+Jamiu
+ymumin
+testconverted
+isah
+Abdullah &Lukman
+__pycache__
+New lec
+Sulaiman
+Shaykh Aliyu Ibrahin Muhammad (Keffi)
+Ridwan
